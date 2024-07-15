@@ -6,7 +6,7 @@ body {
 
 .logocircle-img {
   border-radius: 0%;
-  width: 300px; /* Adjust the width and height as needed */
+  width: 150px; /* Adjust the width and height as needed */
   height: 150px; /* Ensures the image is a perfect circle */
   object-fit: cover; /* Ensures the image covers the entire element, maintaining its aspect ratio */
 }
