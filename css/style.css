@@ -309,8 +309,8 @@ a:focus {
 }
 
 .circle-img {
-  width: 500px; /* Adjust the size as needed */
-  height: 500px; /* Adjust the size as needed */
+  width: 350px; /* Adjust the size as needed */
+  height: 350px; /* Adjust the size as needed */
   border-radius: 15%; /* Makes the image circular */
   object-fit: cover; /* Ensures the image covers the area and maintains aspect ratio */
   overflow: hidden; /* Hides any overflow content */
